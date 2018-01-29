@@ -1,4 +1,3 @@
 this is a message
 have a good day.
-
-this is from local repo
+my pet name is google
